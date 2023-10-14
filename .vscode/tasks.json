@@ -10,7 +10,7 @@
                 "${workspaceFolder}\\**.cpp",
                  //"${fileDirname}\\**.h",
                 "-o",
-                "${workspaceFolder}\\Debug/circle.exe"
+                "${workspaceFolder}\\Debug/kordinat.exe"
             ],
             "options": {
                 "cwd": "${fileDirname}"
@@ -34,7 +34,7 @@
                 "${workspaceFolder}\\**.cpp",
                 //"${fileDirname}\\**.h",
                 "-o",
-                "${fileDirname}\\circle.exe"
+                "${fileDirname}\\kordinat.exe"
             ],
             "options": {
                 "cwd": "${fileDirname}"
